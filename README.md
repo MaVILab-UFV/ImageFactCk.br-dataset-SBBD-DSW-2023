@@ -42,7 +42,7 @@ Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br
 
 # Laboratório
 _________________________________________________________________________________________________
-MaVILab: Laboratório de Visão Mecânica e Inteligência https://mavilab-ufv.github.io/
+MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/
 
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Logomarcas.png?raw=true)
 
