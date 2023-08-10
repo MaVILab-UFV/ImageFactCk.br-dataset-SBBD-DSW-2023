@@ -32,12 +32,6 @@ Campus Universitário
 
 36570-900, Viçosa, MG – Brasil
 
-Tel.: +55 (31) 3612-6350
-
-ou 3612-6351
-
-E-mail: dpi@ufv.br
-
 # Contato
 _________________________________________________________________________________________________
 Yago Santos (Mestrando - UFV) - email: yago.santos@ufv.br
