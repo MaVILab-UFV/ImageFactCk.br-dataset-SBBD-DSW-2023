@@ -44,8 +44,20 @@ Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br
 _________________________________________________________________________________________________
 MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/
 
+
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Logomarcas.png?raw=true)
 
 # Agradecimentos
 _________________________________________________________________________________________________
 Este trabalho foi parcialmente financiado por CAPES, CNPq e FAPEMIG.
+
+# Conheça nossos outros trabalhos
+_________________________________________________________________________________________________
+
+* Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese
+
+Abstract:
+
+The performance of OCR techniques is highly dependent on the application context and the language being processed. Studies focused on languages such as Pt-Br and specific contexts are still scarce. Thus, in this work, we present an extensive analysis of the performance of OCR systems, specifically in the Brazilian Portuguese language, in the context of detecting misinformation spread through images on social platforms. To do this, we build a synthetic dataset considering texts from a Pt-Br fact-check labeled data and common patterns of images frequently shared on social media and messaging apps. Our results reveal the influence of analyzed image aspects on OCR accuracy highlighting those with the greatest impact. Further, we report a considerable variation among the evaluated OCR systems in terms of performance.
+
+@article{Santos_2023, title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese}, author={Yago Santos and Michel M. Silva and Julio C. R. Reis}, journal={SIBGRAPI - Conference on Graphics, Patterns and Images, Rio Grande, 2023}, year={2023} }
