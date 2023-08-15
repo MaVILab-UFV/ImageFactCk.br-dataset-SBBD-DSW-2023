@@ -9,7 +9,7 @@ Nesse trabalho apresentamos a criação de um repositório contendo 12.209 image
 
 O diretório "Extrator de regex" contém o script de manipulação dos dados da regex. O diretório "Gerador-de-imagens-main" contém os scripts para produção e levantamento de dados estatísticos dos repositório bem como o repositório textual FACTCK.BR embutido para inserção de texto nas imagens.
 
-Clicando [aqui](https://zenodo.org/record/8111336), você poderá encontrar um repositório contendo 12.209 imagens produzido pelo gerador desenvolvido.
+Clicando [aqui](https://zenodo.org/record/8111336), você poderá encontrar um repositório contendo 12.209 imagens produzido pelo gerador desenvolvido. DOI: 10.5281/zenodo.8111336.
 
 Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 
