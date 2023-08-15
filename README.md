@@ -1,7 +1,7 @@
 # ImageFactCk.br-dataset-SBBD-DSW-2023
 _________________________________________________________________________________________________
 
-![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Exemplos.jpg?raw=true)
+![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Exemplos.jpg?raw=true)
 
 Neste repoítório estão presentes os scripts de manipulação de regex bem como os de geração de datasets conforme descrito no artigo "ImageFactCk.BR: Repositório de 
 Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais" publicado no SBBD 2023 – Simpósio Brasileiro de Bancos de Dados.
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/
 
 
-![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/Ilustra%C3%A7%C3%B5es%20para%20o%20readme/Logomarcas.png?raw=true)
+![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Logomarcas.png?raw=true)
 
 # Agradecimentos
 _________________________________________________________________________________________________
