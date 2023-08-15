@@ -9,7 +9,7 @@ Nesse trabalho apresentamos a criação de um repositório contendo 12.209 image
 
 O diretório "Extrator de regex" contém o script de manipulação dos dados da regex. O diretório "Gerador-de-imagens-main" contém os scripts para produção e levantamento de dados estatísticos dos repositório bem como o repositório textual FACTCK.BR embutido para inserção de texto nas imagens.
 
-Neste link, você poderá encontrar um repositório contendo 12.209 imagens produzido pelo gerador desenvolvido: https://zenodo.org/record/8111336
+Clicando [aqui](https://zenodo.org/record/8111336), você poderá encontrar um repositório contendo 12.209 imagens produzido pelo gerador desenvolvido.
 
 Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 
@@ -26,8 +26,8 @@ Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 ---
 
 # Instituição  
-Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: https://www.ufv.br/  
-Departamento de Informática: https://www2.dpi.ufv.br/  
+Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: [site](https://www.ufv.br/)  
+Departamento de Informática: [site](https://www2.dpi.ufv.br/)  
 Campus Universitário  
 36570-900, Viçosa, MG – Brasil  
 
@@ -41,7 +41,7 @@ Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br
 ---
 
 # Laboratório  
-MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/  
+[MaVILab:](https://mavilab-ufv.github.io/ ) Laboratório de Visão de Máquina e Inteligência.  
 
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Logomarcas.png?raw=true)
 
