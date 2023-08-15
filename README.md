@@ -26,8 +26,8 @@ Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 ---
 
 # Instituição  
-Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: [acesse o link](https://www.ufv.br/)  
-Departamento de Informática: [acesse o link](https://www2.dpi.ufv.br/)  
+Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: [acesse](https://www.ufv.br/)  
+Departamento de Informática: [acesse](https://www2.dpi.ufv.br/)  
 Campus Universitário  
 36570-900, Viçosa, MG – Brasil  
 
