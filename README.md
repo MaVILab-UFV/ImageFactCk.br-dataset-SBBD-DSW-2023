@@ -1,7 +1,5 @@
 <h1>ImageFactCk.br-dataset-SBBD-DSW-2023</h1>
 
----
-
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Exemplos.jpg?raw=true)
 
 Neste repoítório estão presentes os scripts de manipulação de regex bem como os de geração de datasets conforme descrito no artigo "ImageFactCk.BR: Repositório de 
@@ -25,31 +23,37 @@ Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 }
 ```
 
-# Instituição
 ---
+
+# Instituição  
 Universitade Federal de Viçosa - Campus Viçosa - Minas Gerais - Brasil: https://www.ufv.br/  
 Departamento de Informática: https://www2.dpi.ufv.br/  
 Campus Universitário  
 36570-900, Viçosa, MG – Brasil  
 
-# Contato
 ---
+
+# Contato  
 Yago Santos (Mestrando - UFV) - email: yago.santos@ufv.br  
 Michel Silva (Professor da Universidade Federal de Viçosa) - email: michel.m.silva@ufv.br  
 Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br  
 
-# Laboratório
 ---
+
+# Laboratório  
 MaVILab: Laboratório de Visão de Máquina e Inteligência https://mavilab-ufv.github.io/  
 
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Logomarcas.png?raw=true)
 
-# Agradecimentos
 ---
+
+# Agradecimentos  
+
 Este trabalho foi parcialmente financiado por CAPES, CNPq e FAPEMIG.  
 
-# Conheça nossos outros trabalhos
 ---
+
+# Conheça nossos outros trabalhos  
 
 - Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese
 
@@ -64,3 +68,5 @@ Este trabalho foi parcialmente financiado por CAPES, CNPq e FAPEMIG.
     journal={SIBGRAPI - Conference on Graphics, Patterns and Images, Rio Grande, 2023},
     year={2023} }
   ```
+
+---
