@@ -14,7 +14,7 @@ Clicando [aqui](https://zenodo.org/record/8111336), você poderá encontrar um r
 Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 
 ```
-@INPROCEEDINGS{Santos_2023,
+@INPROCEEDINGS{Santos_2023_SBBD,
     author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
     booktitle={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS}, 
     title={ImageFactCk.BR: Repositório de 
