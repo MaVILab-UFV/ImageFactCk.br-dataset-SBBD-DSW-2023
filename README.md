@@ -40,7 +40,7 @@ Campus Universitário
 
 # Contato  
 Yago Santos (Mestrando - UFV) - email: yago.santos@ufv.br  
-Michel Silva (Professor da Universidade Federal de Viçosa) - email: michel.m.silva@ufv.br  
+[Michel Silva](https://michelmelosilva.github.io/) (Professor da Universidade Federal de Viçosa) - email: michel.m.silva@ufv.br  
 Julio Reis (Professor da Universidade Federal de Viçosa) - email: jreis@ufv.br  
 
 ---
