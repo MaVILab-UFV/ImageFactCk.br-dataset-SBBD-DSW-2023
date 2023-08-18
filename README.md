@@ -1,4 +1,4 @@
-<h1>ImageFactCk.br-dataset-SBBD-DSW-2023</h1>
+<h1>ImageFactCk.BR: Repositório de Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais</h1>
 
 ![alt text](https://github.com/MaVILab-UFV/ImageFactCk.br-dataset-SBBD-DSW-2023/blob/main/resources/Exemplos.jpg?raw=true)
 
