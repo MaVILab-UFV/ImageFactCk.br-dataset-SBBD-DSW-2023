@@ -14,18 +14,14 @@ Clicando [aqui](https://zenodo.org/record/8111336), você poderá encontrar um r
 Caso esta contribuição lhe seja útil, por gentileza, cite nosso artigo:
 
 ```
-@INPROCEEDINGS{Santos_2023_SBBD,
-    author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-    booktitle={SIMPÓSIO BRASILEIRO DE BANCO DE DADOS}, 
-    title={ImageFactCk.BR: Repositório de 
-    Imagens para a Detecção de Desinformação Disseminada em Plataformas Digitais}, 
-    month = {TO APPEAR},
-    year={},
-    volume={},
-    number={},
-    pages={},
-    doi={}
-  }
+@inproceedings{santos2023imagefactck,
+  title={ImageFactCk. BR: Reposit{\'o}rio de Imagens para a Detec{\c{c}}{\~a}o de Desinforma{\c{c}}{\~a}o Disseminada em Plataformas Digitais},
+  author={Santos, Yago and Silva, Michel M and Reis, Julio CS},
+  booktitle={Anais do V Dataset Showcase Workshop},
+  pages={87--98},
+  year={2023},
+  organization={SBC}
+}
 ```
 
 ---
@@ -67,16 +63,13 @@ Este trabalho foi parcialmente financiado por CAPES, CNPq e FAPEMIG.
   The performance of OCR techniques is highly dependent on the application context and the language being processed. Studies focused on languages such as Pt-Br and specific contexts are still scarce. Thus, in this work, we present an extensive analysis of the performance of OCR systems, specifically in the Brazilian Portuguese language, in the context of detecting misinformation spread through images on social platforms. To do this, we build a synthetic dataset considering texts from a Pt-Br fact-check labeled data and common patterns of images frequently shared on social media and messaging apps. Our results reveal the influence of analyzed image aspects on OCR accuracy highlighting those with the greatest impact. Further, we report a considerable variation among the evaluated OCR systems in terms of performance.
 
   ```
-  @INPROCEEDINGS{Santos_2023_Sibgrapi,
-    author={Yago Santos and Michel M. Silva and Julio C. R. Reis},
-    booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
-    title={Evaluation of Optical Character Recognition (OCR) Systems Dealing with Misinformation in Portuguese}, 
-    month = {TO APPEAR},
-    year={},
-    volume={},
-    number={},
-    pages={},
-    doi={}
-  }
+  @inproceedings{santos2023evaluation,
+      title={Evaluation of optical character recognition (OCR) systems dealing with misinformation in Portuguese},
+      author={Santos, Yago and Silva, Michel and Reis, Julio CS},
+      booktitle={2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)},
+      pages={223--228},
+      year={2023},
+      organization={IEEE}
+    }
 
 ---
